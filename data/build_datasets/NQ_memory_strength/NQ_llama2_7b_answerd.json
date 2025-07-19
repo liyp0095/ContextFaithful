@@ -1,0 +1,232 @@
+[
+  {
+    "uid": "corpus-sub-0_6357c3655b524feb8d0e398ff61dfabf",
+    "question": "how many episodes are in chicago fire season 4",
+    "question_type": "how_many",
+    "paraphrases": [
+      "What is the total number of episodes in season 4 of Chicago Fire?",
+      "Can you tell me the episode count for Chicago Fire season 4?",
+      "How many installments make up Chicago Fire's fourth season?",
+      "What is the episode tally for season 4 of Chicago Fire?",
+      "How many episodes can be found in the fourth season of Chicago Fire?",
+      "What is the total number of shows in Chicago Fire's season 4?",
+      "How many episodes are included in the fourth installment of Chicago Fire?"
+    ],
+    "answers": [
+      "The total number of episodes in season 4 of Chicago Fire is 23.",
+      "Of course! Chicago Fire season 4 has 23 episodes.",
+      "Chicago Fire's fourth season consists of 23 installments.",
+      "The episode tally for season 4 of Chicago Fire is 23 episodes.",
+      "The fourth season of Chicago Fire contains 23 episodes.",
+      "The total number of shows in Chicago Fire's season 4 is 23 episodes.",
+      "The fourth installment of Chicago Fire includes 23 episodes."
+    ]
+  },
+  {
+    "uid": "corpus-sub-0_16cde46eb3004809b2bf4b90abde9946",
+    "question": "who sings love will keep us alive by the eagles",
+    "question_type": "who_sings",
+    "paraphrases": [
+      "Who is the singer of the Eagles' song \"Love Will Keep Us Alive\"?",
+      "Can you tell me the artist behind the song \"Love Will Keep Us Alive\" by the Eagles?",
+      "Which member of the Eagles performs the vocals on \"Love Will Keep Us Alive\"?",
+      "Who is the vocalist for the Eagles' track \"Love Will Keep Us Alive\"?",
+      "I'm curious, who sings the song \"Love Will Keep Us Alive\" by the Eagles?",
+      "Do you know who is responsible for singing \"Love Will Keep Us Alive\" by the Eagles?",
+      "Could you please identify the singer of the Eagles' hit \"Love Will Keep Us Alive\"?"
+    ],
+    "answers": [
+      "The singer of the Eagles' song \"Love Will Keep Us Alive\" is Don Henley.",
+      "The artist behind the song \"Love Will Keep Us Alive\" by the Eagles is the Eagles themselves.",
+      "The member of the Eagles who performs the vocals on \"Love Will Keep Us Alive\" is Don Henley.",
+      "The vocalist for the Eagles' track \"Love Will Keep Us Alive\" is Don Henley.",
+      "The song \"Love Will Keep Us Alive\" by the Eagles is sung by Don Henley.",
+      "Yes, the lead vocals on \"Love Will Keep Us Alive\" by the Eagles are sung by Don Henley.",
+      "The singer of the Eagles' hit \"Love Will Keep Us Alive\" is Don Henley."
+    ]
+  },
+  {
+    "uid": "corpus-sub-0_bd6a11d6be7b4459a166c9caeed7619e",
+    "question": "who plays max voice in a goofy movie",
+    "question_type": "who_plays",
+    "paraphrases": [
+      "Who is the voice actor for Max in A Goofy Movie?",
+      "Can you tell me who provides the voice for Max in A Goofy Movie?",
+      "Do you know the actor behind Max's voice in A Goofy Movie?",
+      "Who lends their voice to Max in A Goofy Movie?",
+      "I'm curious, who voices Max in A Goofy Movie?",
+      "Which actor is responsible for voicing Max in A Goofy Movie?",
+      "Who is the person behind the voice of Max in A Goofy Movie?"
+    ],
+    "answers": [
+      "The voice actor for Max in A Goofy Movie is Jason Marsden.",
+      "The voice of Max in A Goofy Movie is provided by actor Jason Marsden.",
+      "Yes, the actor behind Max's voice in A Goofy Movie is Bill Farmer.",
+      "The voice of Max in A Goofy Movie is lent by actor Jason Marsden.",
+      "The character Max in A Goofy Movie is voiced by Jason Marsden.",
+      "The actor responsible for voicing Max in A Goofy Movie is Jason Marsden.",
+      "The person behind the voice of Max in A Goofy Movie is Jason Marsden."
+    ]
+  },
+  {
+    "uid": "corpus-sub-0_35d3ce1b8ae84db08f16dcef7bd1bc9a",
+    "question": "who has been chosen as the brand ambassador of the campaign ' beti bachao-beti padhao",
+    "question_type": "who",
+    "paraphrases": [
+      "Which individual has been selected to represent the 'Save the Girl Child, Educate the Girl Child' campaign as its brand ambassador?",
+      "Who is the face of the initiative 'Save daughters, educate daughters' as its brand ambassador?",
+      "Who has been appointed as the brand ambassador for the 'Save the Girl Child, Educate the Girl Child' campaign?",
+      "Which person has been chosen to promote the 'Beti Bachao-Beti Padhao' campaign as its brand ambassador?",
+      "Who has been designated as the brand ambassador for the 'Save daughters, educate daughters' initiative?",
+      "Who has been selected to endorse the 'Beti Bachao-Beti Padhao' campaign as its brand ambassador?",
+      "Who has been named as the brand ambassador for the 'Save the Girl Child, Educate the Girl Child' campaign?"
+    ],
+    "answers": [
+      "The brand ambassador for the \"Save the Girl Child, Educate the Girl Child\" campaign is Priyanka Chopra Jonas.",
+      "The face of the initiative 'Save daughters, educate daughters' as its brand ambassador is Priyanka Chopra.",
+      "The brand ambassador for the 'Save the Girl Child, Educate the Girl Child' campaign is Priyanka Chopra.",
+      "The brand ambassador for the 'Beti Bachao-Beti Padhao' campaign is actress Alia Bhatt.",
+      "The brand ambassador for the 'Save daughters, educate daughters' initiative is Priyanka Chopra.",
+      "The brand ambassador for the 'Beti Bachao-Beti Padhao' campaign is Akshay Kumar.",
+      "The brand ambassador for the 'Save the Girl Child, Educate the Girl Child' campaign is Priyanka Chopra."
+    ]
+  },
+  {
+    "uid": "corpus-sub-0_8f4038a792314134b9891d67e33327a9",
+    "question": "where do characters live in this is us",
+    "question_type": "where",
+    "paraphrases": [
+      "In which locations do the characters reside in the show This Is Us?",
+      "Where are the characters' homes situated in This Is Us?",
+      "What are the living arrangements of the characters in This Is Us?",
+      "In what places do the characters make their homes in This Is Us?",
+      "Where do the characters dwell in the series This Is Us?",
+      "What are the residential settings of the characters in This Is Us?",
+      "In which specific areas do the characters live in This Is Us?"
+    ],
+    "answers": [
+      "The characters in This Is Us reside in Pittsburgh, Pennsylvania.",
+      "The characters' homes are situated in Pittsburgh, Pennsylvania.",
+      "The characters in This Is Us live in various apartments and houses throughout the series, including Kate and Toby's cozy loft, Randall and Beth's suburban home, and Kevin and Sophie's spacious house.",
+      "The characters in This Is Us make their homes in various locations throughout the show, including Pittsburgh, Pennsylvania; Los Angeles, California; and Philadelphia, Pennsylvania.",
+      "The characters in the series This Is Us dwell in Pittsburgh, Pennsylvania.",
+      "The residential settings of the characters in This Is Us include a suburban home in Pittsburgh, Pennsylvania for the Pearson family, a small apartment in New York City for Kate and Toby, and a beach house in Los Angeles for Kevin.",
+      "The characters in This Is Us live in the Pittsburgh, Pennsylvania area."
+    ]
+  },
+  {
+    "uid": "corpus-sub-0_280e7207937e404c8881d14e78f789e7",
+    "question": "who is the leader of the ontario pc party",
+    "question_type": "who",
+    "paraphrases": [
+      "Can you tell me who currently holds the leadership position in the Ontario PC Party?",
+      "Who is in charge of leading the Ontario PC Party?",
+      "Do you know the name of the individual leading the Ontario PC Party?",
+      "Who is at the helm of the Ontario PC Party as its leader?",
+      "Can you provide me with the name of the leader of the Ontario PC Party?",
+      "Who is the person responsible for guiding the Ontario PC Party?",
+      "Do you have information on the leader of the Ontario PC Party?"
+    ],
+    "answers": [
+      "The current leader of the Ontario PC Party is Doug Ford.",
+      "Doug Ford is in charge of leading the Ontario PC Party.",
+      "Yes, the name of the individual leading the Ontario PC Party is Doug Ford.",
+      "The leader of the Ontario PC Party is Doug Ford.",
+      "The leader of the Ontario PC Party is Doug Ford.",
+      "The person responsible for guiding the Ontario PC Party is Doug Ford.",
+      "Yes, the leader of the Ontario PC Party is Doug Ford."
+    ]
+  },
+  {
+    "uid": "corpus-sub-0_fdf29e259657404aa8c91943f7ec6bbd",
+    "question": "how many seasons of prison break are on netflix",
+    "question_type": "how_many",
+    "paraphrases": [
+      "How many seasons of Prison Break can be found on Netflix?",
+      "What is the total number of Prison Break seasons available for streaming on Netflix?",
+      "How many seasons of the TV show Prison Break are currently accessible on Netflix?",
+      "What is the count of Prison Break seasons that can be watched on Netflix?",
+      "How many seasons of Prison Break are included in Netflix's library?",
+      "What is the quantity of Prison Break seasons offered on Netflix?",
+      "How many seasons of Prison Break are available to watch on Netflix's platform?"
+    ],
+    "answers": [
+      "Four seasons of Prison Break are currently available to stream on Netflix.",
+      "There are 5 seasons of Prison Break available for streaming on Netflix.",
+      "Four seasons of the TV show Prison Break are currently available on Netflix.",
+      "There are 5 seasons of Prison Break that can be watched on Netflix.",
+      "Four seasons of Prison Break are included in Netflix's library.",
+      "There are 5 seasons of Prison Break available on Netflix.",
+      "Four seasons of Prison Break are available to watch on Netflix's platform."
+    ]
+  },
+  {
+    "uid": "corpus-sub-0_65ac5ccc804a4b5180f7ec51b5451242",
+    "question": "when did they stop cigarette advertising on television",
+    "question_type": "when",
+    "paraphrases": [
+      "At what point in time was cigarette advertising banned from television?",
+      "When was the prohibition on cigarette commercials implemented on TV?",
+      "When did the practice of advertising cigarettes on television come to an end?",
+      "When was the decision made to cease cigarette advertising on TV?",
+      "When did the ban on cigarette advertisements take effect on television?",
+      "When did television networks stop airing commercials for cigarettes?",
+      "When was the cutoff date for cigarette advertising on television?"
+    ],
+    "answers": [
+      "Cigarette advertising was banned from television in the United States in 1971.",
+      "The prohibition on cigarette commercials was implemented on TV in 1971 with the passage of the Public Health Cigarette Smoking Act.",
+      "The practice of advertising cigarettes on television came to an end in the United States in 1971 with the passage of the Public Health Cigarette Smoking Act.",
+      "The decision to cease cigarette advertising on TV was made in 1970, when the U.S. Congress passed the Public Health Cigarette Smoking Act.",
+      "The ban on cigarette advertisements on television took effect in the United States in 1971.",
+      "Television networks stopped airing commercials for cigarettes in the late 1970s and early 1980s as a result of increasing public health concerns and regulations.",
+      "The cutoff date for cigarette advertising on television was January 2, 1971, when the Federal Communications Commission (FCC) prohibited the advertising of cigarettes and other tobacco products on American television and radio stations."
+    ]
+  },
+  {
+    "uid": "corpus-sub-0_95ebb92cd84a4e6e8c0b5ab3e72fe668",
+    "question": "how many lines of symmetry are there in a equilateral triangle",
+    "question_type": "how_many",
+    "paraphrases": [
+      "In an equilateral triangle, how many lines can be drawn that divide the shape into two equal halves?",
+      "What is the total number of lines that can be drawn in an equilateral triangle to create mirror images on either side?",
+      "How many symmetrical lines can be found in an equilateral triangle that divide it into identical halves?",
+      "What is the count of lines of symmetry present in an equilateral triangle?",
+      "How many lines are there in an equilateral triangle that can be used to create reflections of the shape?",
+      "In an equilateral triangle, how many lines can be drawn that result in two congruent halves?",
+      "What is the number of lines of symmetry that an equilateral triangle possesses?"
+    ],
+    "answers": [
+      "An equilateral triangle can have 3 lines drawn to divide it into two equal halves.",
+      "The total number of lines that can be drawn in an equilateral triangle to create mirror images on either side is 6.",
+      "An equilateral triangle has 3 symmetrical lines that divide it into identical halves.",
+      "An equilateral triangle has 3 lines of symmetry.",
+      "An equilateral triangle has 3 lines.",
+      "An equilateral triangle can have 3 lines drawn that result in two congruent halves.",
+      "An equilateral triangle possesses 3 lines of symmetry."
+    ]
+  },
+  {
+    "uid": "corpus-sub-0_f34583bb13a640a68cfbd0c48e983816",
+    "question": "who is the number one ranked golfer in the world right now",
+    "question_type": "who",
+    "paraphrases": [
+      "Currently, who holds the top spot in the world golf rankings?",
+      "At this moment, who is considered the best golfer in the world?",
+      "Who is currently sitting at the top of the global golf rankings?",
+      "Right now, who is the number one ranked golfer on the planet?",
+      "Who currently holds the top position in the world of golf rankings?",
+      "Who is currently recognized as the top golfer in the world?",
+      "At present, who is the highest-ranked golfer in the world?"
+    ],
+    "answers": [
+      "Currently, Brooks Koepka holds the top spot in the world golf rankings.",
+      "Tiger Woods is considered the best golfer in the world.",
+      "The current top golfer in the world is Tiger Woods.",
+      "The number one ranked golfer on the planet right now is Tiger Woods.",
+      "The current world number one golfer is Tiger Woods.",
+      "Tiger Woods is currently recognized as the top golfer in the world.",
+      "The highest-ranked golfer in the world is Tiger Woods."
+    ]
+  }
+]

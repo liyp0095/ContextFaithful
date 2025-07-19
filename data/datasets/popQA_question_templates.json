@@ -1,0 +1,210 @@
+{
+    "occupation": {
+        "Question": "What is [Subject]'s occupation?",
+        "Count": 532,
+        "Paraphrases": [
+            "Can you tell me the job [Subject] does?",
+            "What type of work does [Subject] do?",
+            "What is the profession of [Subject]?",
+            "Do you know what [Subject] does for a living?",
+            "Could you inform me about [Subject]'s career?",
+            "What is the line of work of [Subject]?",
+            "What does [Subject] do as a job?"
+        ]
+    },
+    "place of birth": {
+        "Question": "In what city was [Subject] born?",
+        "Count": 584,
+        "Paraphrases": [
+            "Where was [Subject] born?",
+            "What city was [Subject] born in?",
+            "Which city was [Subject] born in?",
+            "What is the birth city of [Subject]?",
+            "From which city does [Subject] originate?",
+            "What is the birthplace of [Subject]?",
+            "In which city did [Subject] originate?"
+        ]
+    },
+    "genre": {
+        "Question": "What genre is [Subject]?",
+        "Count": 1619,
+        "Paraphrases": [
+            "Can you tell me the category that [Subject] falls under?",
+            "In what classification does [Subject] belong?",
+            "Which type of content is [Subject] considered to be?",
+            "What kind of genre does [Subject] fit into?",
+            "How would you describe the genre of [Subject]?",
+            "Under what genre would you place [Subject]?",
+            "What genre does [Subject] fall into?"
+        ]
+    },
+    "father": {
+        "Question": "Who is the father of [Subject]?",
+        "Count": 570,
+        "Paraphrases": [
+            "What is the identity of the paternal figure of [Subject]?",
+            "Can you disclose the name of [Subject]'s dad?",
+            "Do you know which individual is the biological father of [Subject]?",
+            "Identify the male parent of [Subject].",
+            "Whose father is [Subject]?",
+            "What is the name of the father of [Subject]?",
+            "Which person is the father of [Subject]?"
+        ]
+    },
+    "country": {
+        "Question": "In what country is [Subject]?",
+        "Count": 838,
+        "Paraphrases": [
+            "What is the location of [Subject]?",
+            "Which nation is [Subject] located in?",
+            "Where can [Subject] be found on the map?",
+            "In which country can [Subject] be found?",
+            "What country is home to [Subject]?",
+            "Which country is [Subject] situated in?",
+            "The country that [Subject] is located in is?"
+        ]
+    },
+    "producer": {
+        "Question": "Who was the producer of [Subject]?",
+        "Count": 1520,
+        "Paraphrases": [
+            "Can you tell me the individual responsible for producing [Subject]?",
+            "Do you know the name of the person who produced [Subject]?",
+            "Which person was in charge of producing [Subject]?",
+            "Could you identify the producer of [Subject]?",
+            "Who oversaw the production of [Subject]?",
+            "What is the name of the person who handled the production of [Subject]?",
+            "Can you provide me with the name of the producer for [Subject]?"
+        ]
+    },
+    "director": {
+        "Question": "Who was the director of [Subject]?",
+        "Count": 1999,
+        "Paraphrases": [
+            "What individual held the position of director for [Subject]?",
+            "Can you identify the person in charge of [Subject]?",
+            "Do you know the name of the director for [Subject]?",
+            "Who oversaw the operations of [Subject]?",
+            "Which individual was responsible for leading [Subject]?",
+            "What is the name of the person who directed [Subject]?",
+            "Who was in control of [Subject]?"
+        ]
+    },
+    "capital of": {
+        "Question": "What is [Subject] the capital of?",
+        "Count": 363,
+        "Paraphrases": [
+            "Which city serves as the capital of [Subject]?",
+            "In what city is the capital of [Subject] located?",
+            "Can you tell me where the capital of [Subject] is?",
+            "What city holds the title of being the capital of [Subject]?",
+            "Where can [Subject]'s capital be found?",
+            "What city is home to the capital of [Subject]?",
+            "Which city is designated as the capital of [Subject]?"
+        ]
+    },
+    "screenwriter": {
+        "Question": "Who was the screenwriter for [Subject]?",
+        "Count": 1999,
+        "Paraphrases": [
+            "Can you identify the individual responsible for writing the screenplay of [Subject]?",
+            "Which person was credited as the writer for the film [Subject]?",
+            "Do you know the name of the person who penned the script for [Subject]?",
+            "Who is the writer behind the screenplay of [Subject]?",
+            "Could you tell me who wrote the screenplay for [Subject]?",
+            "What is the name of the screenwriter associated with [Subject]?",
+            "Who is the author of the screenplay for [Subject]?"
+        ]
+    },
+    "composer": {
+        "Question": "Who was the composer of [Subject]?",
+        "Count": 978,
+        "Paraphrases": [
+            "What individual created [Subject] musically?",
+            "Do you know the name of the person who composed [Subject]?",
+            "Can you identify the composer of [Subject]?",
+            "Which artist wrote [Subject]?",
+            "Whose work is the composition [Subject]?",
+            "Who is credited with composing [Subject]?",
+            "The composer of [Subject] is attributed to whom?"
+        ]
+    },
+    "color": {
+        "Question": "What color is [Subject]?",
+        "Count": 34,
+        "Paraphrases": [
+            "Can you tell me the hue of [Subject]?",
+            "I'd like to know the shade of [Subject].",
+            "What is the coloration of [Subject]?",
+            "Could you describe the tint of [Subject]?",
+            "What is the pigment of [Subject]?",
+            "I'm curious about the color of [Subject].",
+            "Please specify the color of [Subject]."
+        ]
+    },
+    "religion": {
+        "Question": "What is the religion of [Subject]?",
+        "Count": 338,
+        "Paraphrases": [
+            "Can you tell me the faith that [Subject] practices?",
+            "What religious beliefs does [Subject] follow?",
+            "I'm curious about the religious affiliation of [Subject].",
+            "Could you inform me about the religious background of [Subject]?",
+            "What is the spiritual tradition that [Subject] adheres to?",
+            "Do you know which religion [Subject] belongs to?",
+            "I'm interested in knowing the religious denomination of [Subject]."
+        ]
+    },
+    "sport": {
+        "Question": "What sport does [Subject] play?",
+        "Count": 547,
+        "Paraphrases": [
+            "Which athletic activity is [Subject] involved in?",
+            "In which game does [Subject] participate?",
+            "Which physical game does [Subject] engage in?",
+            "What kind of sport does [Subject] enjoy?",
+            "What type of athletic competition is [Subject] part of?",
+            "Which sport does [Subject] take part in?",
+            "In which sport is [Subject] active?"
+        ]
+    },
+    "author": {
+        "Question": "Who is the author of [Subject]?",
+        "Count": 1514,
+        "Paraphrases": [
+            "What is the name of the person who wrote [Subject]?",
+            "Can you tell me the identity of the writer of [Subject]?",
+            "Do you know the author responsible for [Subject]?",
+            "Which individual is credited with writing [Subject]?",
+            "What is the name of the author behind [Subject]?",
+            "Who is the creator of [Subject]?",
+            "Who penned [Subject]?"
+        ]
+    },
+    "mother": {
+        "Question": "Who is the mother of [Subject]?",
+        "Count": 187,
+        "Paraphrases": [
+            "What is the name of [Subject]'s mother?",
+            "Which woman gave birth to [Subject]?",
+            "Can you identify the maternal figure of [Subject]?",
+            "Who birthed [Subject]?",
+            "Whose child is [Subject]?",
+            "What is the identity of [Subject]'s birth parent?",
+            "Who is the female parent of [Subject]?"
+        ]
+    },
+    "capital": {
+        "Question": "What is the capital of [Subject]?",
+        "Count": 645,
+        "Paraphrases": [
+            "Can you tell me the primary city of [Subject]?",
+            "What city serves as the capital of [Subject]?",
+            "Which city is designated as the capital of [Subject]?",
+            "What town holds the title of capital in [Subject]?",
+            "Do you know the capital city of [Subject]?",
+            "Which urban center is the capital of [Subject]?",
+            "What is the chief city in [Subject]?"
+        ]
+    }
+}
